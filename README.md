@@ -2,7 +2,7 @@
 
 **Last updated: 2026**
 
-Welcome to Lenidi ("we", "our", "us"). Lenidi is a marketplace app that connects buyers and sellers in Ghana. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our mobile application and services.
+Welcome to Lenidi Lenidi is a marketplace app that connects buyers and sellers in Ghana. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our mobile application and services.
 
 By using Lenidi, you agree to the practices described in this policy. If you do not agree, please do not use the app.
 
