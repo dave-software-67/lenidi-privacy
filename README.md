@@ -8,9 +8,9 @@ By using Lenidi, you agree to the practices described in this policy. If you do 
 
 ---
 
-## 1. Information We Collect
+##  Information We Collect
 
-### 1.1 Information You Provide
+### 1. Information You Provide
 
 - **Account information:** Your full name, email address, and phone number when you sign up.
 - **Profile information:** Your profile photo (if you upload one).
@@ -18,19 +18,19 @@ By using Lenidi, you agree to the practices described in this policy. If you do 
 - **WhatsApp number:** If you provide one for buyers to contact you.
 - **Communication:** Messages you send through our in-app AI chat assistant.
 
-### 1.2 Information Collected Automatically
+### 2. Information Collected Automatically
 
 - **Device information:** Device type, operating system, and app version.
 - **Usage data:** How you interact with listings, chats, and features.
 - **Location:** The region you enter when posting an ad (we do not track your GPS location).
 
-### 1.3 Payment Information
+### 3. Payment Information
 
 All payments for boosts and subscriptions are processed by **Paystack**. We do not store your card details, mobile money numbers, or bank information on our servers. Paystack handles all payment data securely according to their own privacy policy.
 
 ---
 
-## 2. How We Use Your Information
+## 4. How We Use Your Information
 
 We use your information to:
 
@@ -46,7 +46,7 @@ We use your information to:
 
 ---
 
-## 3. Data Sharing
+## 5. Data Sharing
 
 We do not sell your personal information. We share limited data only with:
 
@@ -60,7 +60,7 @@ Your WhatsApp number is only visible to buyers who view your listings. We do not
 
 ---
 
-## 4. Data Retention
+## 6. Data Retention
 
 - **Free accounts:** If you do not open the app for 30 consecutive days and have no active subscription, your account and all your data will be automatically deleted.
 - **Paid accounts:** Your data is retained while your subscription (Plus, Pro, Premium, or VIP) is active.
@@ -68,7 +68,7 @@ Your WhatsApp number is only visible to buyers who view your listings. We do not
 
 ---
 
-## 5. Your Rights
+## 7. Your Rights
 
 You have the right to:
 
@@ -80,13 +80,13 @@ You have the right to:
 
 ---
 
-## 6. Children's Privacy
+## 8. Children's Privacy
 
 Lenidi is intended for users **13 years and older**. We do not knowingly collect personal information from children under 13. If we learn that we have collected such information, we will delete it immediately. Parents or guardians who believe their child has provided us with data should contact us.
 
 ---
 
-## 7. Security
+## 9. Security
 
 We use industry-standard security measures to protect your data, including:
 
@@ -99,17 +99,17 @@ However, no system is 100% secure. We cannot guarantee absolute security of your
 
 ---
 
-## 8. Changes to This Policy
+## 10. Changes to This Policy
 
 We may update this Privacy Policy from time to time. When we do, we will update the "Last updated" date at the top. Your continued use of Lenidi after changes means you accept the new policy.
 
 ---
 
-## 9. Contact Us
+## 11. Contact Us
 
 If you have questions about this Privacy Policy or how we handle your data:
 
-- **WhatsApp Support:** 0544840240
+- **WhatsApp Support:** +233544840240
 - **App:** Lenidi Marketplace · Ghana
 
 ---
