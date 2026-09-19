@@ -1,4 +1,4 @@
-# lenidi-privacy & policy
+# privacy & policy
 
 **Last updated: 2026**
 
